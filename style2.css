@@ -1,0 +1,88 @@
+/* #heading{
+    height: 123px;
+    width: 411px;
+    left: 81px;
+    opacity: 40%;
+    line-height: 122.56px;
+    font-family: frederica the great;
+    font-size: 60px;
+    /* mix-blend-mode: hard-light; */
+    /* margin-left: 30px;
+    color: #F3F4F4;
+} */
+/* #sheading{
+    height: 61px;
+    width: 260px;
+    left: 81px;
+    line-height: 61.2px;
+    opacity: 40%;
+    font-family: frederica the great;
+    font-size: 40px;
+    /* mix-blend-mode: hard-light; */
+    /* margin-left: 30px;
+    color: #E10D45;
+}  */
+
+#uimg{
+    margin-top: 10px;
+    z-index: 1;
+    position: absolute;
+
+}
+#limg{
+    width: 95%;
+    margin-top: 50px;
+    z-index: 2;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 50px;
+
+}
+#row{
+    padding: 10px;
+}
+#row2{
+    margin-top: 100px;
+
+
+}
+pre{
+    margin-left: 5px;
+    color: #F3F4F4;
+    font-size: 19px;
+    
+    
+}
+
+img{
+    
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+
+#button{
+    margin-top: 5%;
+    margin-left: 40%;
+
+}
+#src{
+    margin-top: -4%;
+    margin-left: 45%;
+
+}
+/* #img1{
+    margin-top: 10px;
+    z-index: 1;
+    position: absolute;
+
+}
+#img2{
+    margin-top: 50px;
+    z-index: 2;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 50px;
+
+}
+     */
